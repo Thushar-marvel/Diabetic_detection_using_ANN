@@ -47,6 +47,12 @@ ANN model is build with tensorflow and keras framework
  Model is trained for 120 epochs with adam optimizer
  
  ![image](https://user-images.githubusercontent.com/69953585/110980210-9ea15c80-838b-11eb-812a-ba94e412a834.png)
+ 
+ 
+ 
+ Referencees
+ 1.TYNECKI P. Predict diabetes diagnosis for Pima Female Indians with Logistic Regression. 2018. Available on: https://www.kaggle.com/ptynecki/pima-indians-diabetes-prediction-with-lr-84.
+ 2.https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset
 
  
 
