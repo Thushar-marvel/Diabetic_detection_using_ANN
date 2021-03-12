@@ -1,4 +1,4 @@
-# Diabetic_detection_using_ANN
+# Diabetic detection using ANN
 
 In this project I used Artificial neural network to build diabetic disease detection model based on past data of the patients
 
